@@ -1,4 +1,5 @@
-scripts/results/*
 .DS_Store
+scripts/results/*
+!scripts/results/.gitkeep
 scripts/selected_ids/*
 !scripts/selected_ids/sample.txt
