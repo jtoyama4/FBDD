@@ -9,7 +9,7 @@ The script collects the responses and stores the results in Excel files.
 
 ---
 
-## Overview
+# Overview
 
 1. **Script**  
    - `main.py` takes arguments to toggle specific prompts (counter-factual, context) and optionally filter the dataset by selected IDs.
@@ -24,7 +24,7 @@ The script collects the responses and stores the results in Excel files.
 
 ---
 
-## Requirements
+# Requirements
 
 - Python **3.7+** (recommended)
 - A virtual environment (e.g., `venv`) or other environment manager
@@ -36,22 +36,23 @@ The script collects the responses and stores the results in Excel files.
 
 ---
 
-## Installation
+# Installation
 
 1. **Clone or Download the Repository**
    ```
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/jtoyama4/FBDD.git
+   cd FBDD
    ```
 
 2. **(Optional) Create and Activate a Virtual Environment**
-# On macOS / Linux
+
+On macOS / Linux
 ```
 python -m venv venv_name
 source venv_name/bin/activate
 ```
 
-# On Windows
+On Windows
 ```
 python -m venv venv_name
 venv\Scripts\activate
@@ -62,9 +63,9 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. **Usage**
+# Usage
 
-4.1 API Keys
+1. **API Keys**
 
 This script expects the following environment variables to be set:
 * OPENAI_API_KEY
@@ -79,7 +80,7 @@ export ANTHROPIC_API_KEY='YOUR_ANTHROPIC_API_KEY'
 export GOOGLE_API_KEY='YOUR_GOOGLE_API_KEY'
 ```
 
-4.2 Folder / File Structure
+2. **Folder / File Structure**
 
 By default, main.py looks for:
 * CSV file at ../dataset/dataset_meta.csv
@@ -87,6 +88,8 @@ By default, main.py looks for:
 
 Adjust the script’s constants (CSV_FILE_PATH, IMAGES_FOLDER_PATH) if your paths differ.
 
+The folder structure is as follows:
+```
 FBDD
 ├── dataset
 │   ├── img_dataset
@@ -96,9 +99,10 @@ FBDD
 │   ├── results
 │   └── selected_ids
 └── requirements.txt
+```
 
 
-4.3 Command-line Arguments
+3. **Command-line Arguments**
 * --cf:
 Enable a counter-factual prompt.
 * --ct:
@@ -121,7 +125,7 @@ python main.py --ct
 python main.py --selected_id selected_ids.txt
 ```
 
-4.4 Output
+4. **Output**
 A new folder results/experiment_results_YYYYmmDD-HHMMSS will be created, containing the Excel files with results (e.g. result_YYYYmmDD-HHMMSS_0.xlsx, etc.).
 
 
