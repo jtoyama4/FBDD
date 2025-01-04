@@ -88,6 +88,10 @@ By default, main.py looks for:
 
 Adjust the script’s constants (CSV_FILE_PATH, IMAGES_FOLDER_PATH) if your paths differ.
 
+Note that the ID \*-\*-6 corresponds to a **completely black image**. 
+This image is intended to test whether the LVLM can appropriately respond that the question cannot be answered. 
+If you are not interested in this evaluation, you can remove this entry from both the CSV file.
+
 The folder structure is as follows:
 ```
 FBDD
@@ -100,7 +104,6 @@ FBDD
 │   └── selected_ids
 └── requirements.txt
 ```
-
 
 3. **Command-line Arguments**
 * --cf:
@@ -127,5 +130,4 @@ python main.py --selected_id selected_ids.txt
 
 4. **Output**
 A new folder results/experiment_results_YYYYmmDD-HHMMSS will be created, containing the Excel files with results (e.g. result_YYYYmmDD-HHMMSS_0.xlsx, etc.).
-
 
