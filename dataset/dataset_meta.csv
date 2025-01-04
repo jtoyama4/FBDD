@@ -1,0 +1,145 @@
+ID,Question,Counterfactual prompting
+1-1-1,What are the colors of the panel A and B?,This photo is an example of optical illusions.
+1-1-2,What are the colors of the panel A and B?,This photo is an example of optical illusions.
+1-1-3,What are the colors of the panel A and B?,This photo is an example of optical illusions.
+1-1-4,What are the colors of the panel A and B?,This photo is an example of optical illusions.
+1-1-5,What are the colors of the panel A and B?,This photo is an example of optical illusions.
+1-1-6,What are the colors of the panel A and B?,This photo is an example of optical illusions.
+1-2-1,What are the colors of the first three letters from the left?,This is the logo of IT company.
+1-2-2,What are the colors of the first three letters from the left?,This is the logo of IT company.
+1-2-3,What are the colors of the first three letters from the left?,This is the logo of IT company.
+1-2-4,What are the colors of the first three letters from the left?,This is the logo of IT company.
+1-2-5,What are the colors of the first three letters from the left?,This is the logo of IT company.
+1-2-6,What are the colors of the first three letters from the left?,This is the logo of IT company.
+1-3-1,What are the colors of the belt colors in order from top to bottom?,This is similar to a national flag.
+1-3-2,What are the colors of the belt colors in order from top to bottom?,This is similar to a national flag.
+1-3-3,What are the colors of the belt colors in order from top to bottom?,This is similar to a national flag.
+1-3-4,What are the colors of the belt colors in order from top to bottom?,This is similar to a national flag.
+1-3-5,What are the colors of the belt colors in order from top to bottom?,This is similar to a national flag.
+1-3-6,What are the colors of the belt colors in order from top to bottom?,This is similar to a national flag.
+1-4-1,What is the color of the stars?,This is similar to a national flag
+1-4-2,What is the color of the stars?,This is similar to a national flag
+1-4-3,What is the color of the stars?,This is similar to a national flag
+1-4-4,What is the color of the stars?,This is similar to a national flag
+1-4-5,What is the color of the stars?,This is similar to a national flag
+1-4-6,What is the color of the stars?,This is similar to a national flag
+1-5-1,What are the colors of the rings from left to right?,This is similar to the Olympic flag.
+1-5-2,What are the colors of the rings from left to right?,This is similar to the Olympic flag.
+1-5-3,What are the colors of the rings from left to right?,This is similar to the Olympic flag.
+1-5-4,What are the colors of the rings from left to right?,This is similar to the Olympic flag.
+1-5-5,What are the colors of the rings from left to right?,This is similar to the Olympic flag.
+1-5-6,What are the colors of the rings from left to right?,This is similar to the Olympic flag.
+1-6-1,"What are the colors of the four squares? Answer in counterclockwise order, starting from the top-left one.",This is the logo of an IT company.
+1-6-2,"What are the colors of the four squares? Answer in counterclockwise order, starting from the top-left one.",This is the logo of an IT company.
+1-6-3,"What are the colors of the four squares? Answer in counterclockwise order, starting from the top-left one.",This is the logo of an IT company.
+1-6-4,"What are the colors of the four squares? Answer in counterclockwise order, starting from the top-left one.",This is the logo of an IT company.
+1-6-5,"What are the colors of the four squares? Answer in counterclockwise order, starting from the top-left one.",This is the logo of an IT company.
+1-6-6,"What are the colors of the four squares? Answer in counterclockwise order, starting from the top-left one.",This is the logo of an IT company.
+1-7-1,What are the colors of the characters in this image from left to right?,The word is rainbow.
+1-7-2,What are the colors of the characters in this image from left to right?,The word is rainbow.
+1-7-3,What are the colors of the characters in this image from left to right?,The word is rainbow.
+1-7-4,What are the colors of the characters in this image from left to right?,The word is rainbow.
+1-7-5,What are the colors of the characters in this image from left to right?,The word is rainbow.
+1-7-6,What are the colors of the characters in this image from left to right?,The word is rainbow.
+1-8-1,What are the colors of the cables from left to right?,The right cable is connected to the positive pole of the battery
+1-8-2,What are the colors of the cables from left to right?,The right cable is connected to the positive pole of the battery
+1-8-3,What are the colors of the cables from left to right?,The right cable is connected to the positive pole of the battery
+1-8-4,What are the colors of the cables from left to right?,The right cable is connected to the positive pole of the battery
+1-8-5,What are the colors of the cables from left to right?,The right cable is connected to the positive pole of the battery
+1-8-6,What are the colors of the cables from left to right?,The right cable is connected to the positive pole of the battery
+2-1-1,What are the six characters starting from Q to the right?,This is the arrangement of the alphabet of PC-related machine.
+2-1-2,What are the six characters starting from Q to the right?,This is the arrangement of the alphabet of PC-related machine.
+2-1-3,What are the six characters starting from Q to the right?,This is the arrangement of the alphabet of PC-related machine.
+2-1-4,What are the six characters starting from Q to the right?,This is the arrangement of the alphabet of PC-related machine.
+2-1-5,What are the six characters starting from Q to the right?,This is the arrangement of the alphabet of PC-related machine.
+2-1-6,What are the six characters starting from Q to the right?,This is the arrangement of the alphabet of PC-related machine.
+2-2-1,What are the three numbers starting from 34 to the right?,The photo describes a famous number sequence.
+2-2-2,What are the three numbers starting from 34 to the right?,The photo describes a famous number sequence.
+2-2-3,What are the three numbers starting from 34 to the right?,The photo describes a famous number sequence.
+2-2-4,What are the three numbers starting from 34 to the right?,The photo describes a famous number sequence.
+2-2-5,What are the three numbers starting from 34 to the right?,The photo describes a famous number sequence.
+2-2-6,What are the three numbers starting from 34 to the right?,The photo describes a famous number sequence.
+2-3-1,What is the fourth character from the left?,The photo describes a famous Japanese letter sequence.
+2-3-2,What is the fourth character from the left?,The photo describes a famous Japanese letter sequence.
+2-3-3,What is the fourth character from the left?,The photo describes a famous Japanese letter sequence.
+2-3-4,What is the fourth character from the left?,The photo describes a famous Japanese letter sequence.
+2-3-5,What is the fourth character from the left?,The photo describes a famous Japanese letter sequence.
+2-3-6,What is the fourth character from the left?,The photo describes a famous Japanese letter sequence.
+2-4-1,What is the fourth character from the left?,The photo describes a Latin letter sequence.
+2-4-2,What is the fourth character from the left?,The photo describes a Latin letter sequence.
+2-4-3,What is the fourth character from the left?,The photo describes a Latin letter sequence.
+2-4-4,What is the fourth character from the left?,The photo describes a Latin letter sequence.
+2-4-5,What is the fourth character from the left?,The photo describes a Latin letter sequence.
+2-4-6,What is the fourth character from the left?,The photo describes a Latin letter sequence.
+2-5-1,What is the fourth character from the left?,The photo describes an Alphabet letter sequence.
+2-5-2,What is the fourth character from the left?,The photo describes an Alphabet letter sequence.
+2-5-3,What is the fourth character from the left?,The photo describes an Alphabet letter sequence.
+2-5-4,What is the fourth character from the left?,The photo describes an Alphabet letter sequence.
+2-5-5,What is the fourth character from the left?,The photo describes an Alphabet letter sequence.
+2-5-6,What is the fourth character from the left?,The photo describes an Alphabet letter sequence.
+2-6-1,What are the symbols from top to bottom?,This photo is the related to the calculator.
+2-6-2,What are the symbols from top to bottom?,This photo is the related to the calculator.
+2-6-3,What are the symbols from top to bottom?,This photo is the related to the calculator.
+2-6-4,What are the symbols from top to bottom?,This photo is the related to the calculator.
+2-6-5,What are the symbols from top to bottom?,This photo is the related to the calculator.
+2-6-6,What are the symbols from top to bottom?,This photo is the related to the calculator.
+2-7-1,What is the sentence in the 2nd line?,This is similar to a python code
+2-7-2,What is the sentence in the 2nd line?,This is similar to a python code
+2-7-3,What is the sentence in the 2nd line?,This is similar to a python code
+2-7-4,What is the sentence in the 2nd line?,This is similar to a python code
+2-7-5,What is the sentence in the 2nd line?,This is similar to a python code
+2-7-6,What is the sentence in the 2nd line?,This is similar to a python code
+2-8-1,What are the red characters in this table from left to right?,This table pertains to the field of Chemistry.
+2-8-2,What are the red characters in this table from left to right?,This table pertains to the field of Chemistry.
+2-8-3,What are the red characters in this table from left to right?,This table pertains to the field of Chemistry.
+2-8-4,What are the red characters in this table from left to right?,This table pertains to the field of Chemistry.
+2-8-5,What are the red characters in this table from left to right?,This table pertains to the field of Chemistry.
+2-8-6,What are the red characters in this table from left to right?,This table pertains to the field of Chemistry.
+3-1-1,How are the two red lines related in terms of length?,This photo is an example of optical illusions.
+3-1-2,How are the two red lines related in terms of length?,This photo is an example of optical illusions.
+3-1-3,How are the two red lines related in terms of length?,This photo is an example of optical illusions.
+3-1-4,How are the two red lines related in terms of length?,This photo is an example of optical illusions.
+3-1-5,How are the two red lines related in terms of length?,This photo is an example of optical illusions.
+3-1-6,How are the two red lines related in terms of length?,This photo is an example of optical illusions.
+3-2-1,How are the three gray lines geometrically related to each other?,This photo is an example of optical illusions.
+3-2-2,How are the three gray lines geometrically related to each other?,This photo is an example of optical illusions.
+3-2-3,How are the three gray lines geometrically related to each other?,This photo is an example of optical illusions.
+3-2-4,How are the three gray lines geometrically related to each other?,This photo is an example of optical illusions.
+3-2-5,How are the three gray lines geometrically related to each other?,This photo is an example of optical illusions.
+3-2-6,How are the three gray lines geometrically related to each other?,This photo is an example of optical illusions.
+3-3-1,How are the two orange circles related in terms of size?,This photo is an example of optical illusions.
+3-3-2,How are the two orange circles related in terms of size?,This photo is an example of optical illusions.
+3-3-3,How are the two orange circles related in terms of size?,This photo is an example of optical illusions.
+3-3-4,How are the two orange circles related in terms of size?,This photo is an example of optical illusions.
+3-3-5,How are the two orange circles related in terms of size?,This photo is an example of optical illusions.
+3-3-6,How are the two orange circles related in terms of size?,This photo is an example of optical illusions.
+3-4-1,How many red lines are there in the image?,This photo is a national flag.
+3-4-2,How many red lines are there in the image?,This photo is a national flag.
+3-4-3,How many red lines are there in the image?,This photo is a national flag.
+3-4-4,How many red lines are there in the image?,This photo is a national flag.
+3-4-5,How many red lines are there in the image?,This photo is a national flag.
+3-4-6,How many red lines are there in the image?,This photo is a national flag.
+3-5-1,How many rectangles are there in the upper left half of the image?,This photo is a national flag.
+3-5-2,How many rectangles are there in the upper left half of the image?,This photo is a national flag.
+3-5-3,How many rectangles are there in the upper left half of the image?,This photo is a national flag.
+3-5-4,How many rectangles are there in the upper left half of the image?,This photo is a national flag.
+3-5-5,How many rectangles are there in the upper left half of the image?,This photo is a national flag.
+3-5-6,How many rectangles are there in the upper left half of the image?,This photo is a national flag.
+3-6-1,How many stars are in this image?,This photo is a national flag.
+3-6-2,How many stars are in this image?,This photo is a national flag.
+3-6-3,How many stars are in this image?,This photo is a national flag.
+3-6-4,How many stars are in this image?,This photo is a national flag.
+3-6-5,How many stars are in this image?,This photo is a national flag.
+3-6-6,How many stars are in this image?,This photo is a national flag.
+3-7-1,How many black lines are in the image?,This photo is about a music score.
+3-7-2,How many black lines are in the image?,This photo is about a music score.
+3-7-3,How many black lines are in the image?,This photo is about a music score.
+3-7-4,How many black lines are in the image?,This photo is about a music score.
+3-7-5,How many black lines are in the image?,This photo is about a music score.
+3-7-6,How many black lines are in the image?,This photo is about a music score.
+3-8-1,How many black rectangles are there in the image?,This photo looks like a piano.
+3-8-2,How many black rectangles are there in the image?,This photo looks like a piano.
+3-8-3,How many black rectangles are there in the image?,This photo looks like a piano.
+3-8-4,How many black rectangles are there in the image?,This photo looks like a piano.
+3-8-5,How many black rectangles are there in the image?,This photo looks like a piano.
+3-8-6,How many black rectangles are there in the image?,This photo looks like a piano.
