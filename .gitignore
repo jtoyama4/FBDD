@@ -1,1 +1,4 @@
 scripts/results/*
+.DS_Store
+scripts/selected_ids/*
+!scripts/selected_ids/sample.txt
