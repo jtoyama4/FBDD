@@ -257,8 +257,6 @@ def main():
 
         image_path = row['image_path']
 
-        print(question)
-
         # Send request to GPT-4
         content_gpt4 = access_api_with_retry(
             get_content_from_openai,
